@@ -1,0 +1,84 @@
+*{
+	padding-right: 0px;
+	margin: 0px;
+ }
+
+ body{
+ 	background:url(../image/bg-signup.jpg);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	font-family: 'Roboto', sans-serif;
+ }
+
+ .container-one{
+ 	width: 650px;
+ 	margin:10% auto;
+ }
+
+ .signup-section{
+ 	background: #03a9f487;
+    padding: 25px;
+ }
+
+ .signup-section img{
+ 	width: 200px;
+    height: 200px;
+    margin: 0px auto;
+    display: block;
+ }
+
+ .signup-section h2{
+ 	text-align: center;
+    color: black;
+    text-transform: uppercase;
+    margin: 10px 0px;
+ }
+
+ .form-control-one{
+ 	width: 45%;
+    height: 30px;
+    margin-bottom: 10px;
+    margin: 7px;
+    padding: 5px;
+    text-align: center;
+ }
+
+ .form-control-two{
+ 	width: 98%;
+    height: 30px;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+ }
+
+ .signup-btn{
+ 	background: maroon;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    margin: 0px auto;
+    display: block;
+    cursor: pointer;
+    transition: 0.5s ease-in-out
+    -moz-transition:0.5s ease-in-out;
+    -o-transition:0.5s ease-in-out;
+    -webkit-transition:0.5s ease-in-out;
+
+ }
+
+ .signup-btn:hover{
+ 	box-shadow: 3px 6px 9px white;
+
+ }
+
+ .login-link{
+ 	font-style: bold;
+ 	color: white;
+ 	text-align: center;
+ 	margin: 12px 0px;
+ }
+
+ .login-link-one{
+ 	color: black;
+    margin: 0px 5px;
+ }

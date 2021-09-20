@@ -1,0 +1,89 @@
+*{
+	padding: 0px auto;
+	margin:0px auto;
+	
+}
+
+body{
+	background:url(../image/bg-one.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.container{
+	width: 650px;
+	margin: 10% auto;
+}
+
+.login-section{
+	background: #2196f39e;
+    padding: 25px;
+}
+
+.login-section img{
+	width: 200px;
+	height: 200px;
+    margin: 0px auto;
+    display: block;
+}
+
+.login-section h2{
+	text-align: center;
+    color:black;
+    text-transform: uppercase;
+    margin: 10px 0px;
+}
+
+.form-control{
+	width: 95%;
+    height: 30px;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+.submit-btn{
+	background: maroon;
+    color: white;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    margin: 0px auto;
+    display: block;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+    -moz-transition: 0.5s ease-in-out;
+    -o-transition: 0.5s ease-in-out;
+    -webkit-transition: 0.5s ease-in-out;
+    
+}
+
+.submit-btn:hover{
+	box-shadow: 3px 6px 9px white;
+}
+
+.register-link{
+	font-style: bold;
+	color: white;
+	text-align: center;
+	margin: 12px 0px
+
+}
+
+.reset-link{
+	font-style: bold;
+	color: white;
+	text-align: center;
+	margin: 12px 0px
+}
+
+.register-link-one{
+	color:#020202;
+	margin:0px 5px;
+}
+
+.reset-link-one{
+	color:#020202;
+	margin:0px 5px;
+}
